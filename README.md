@@ -7,7 +7,7 @@ In this section, we covered the basics of Python programming, including:
 
 
 - Variables and data types
-- Operators:
+- Operators
     - Arithmetic operators
     - Assignment operators
     - Comparison operators
@@ -15,7 +15,7 @@ In this section, we covered the basics of Python programming, including:
     - Bitwise operators
     - Membership operators
     - Identity operators
-- Data Types:
+- Data Types
     - Numeric types (int, float, complex)
     - Text type (str)
     - Sequence types (list, tuple, range)
@@ -23,15 +23,15 @@ In this section, we covered the basics of Python programming, including:
     - Set types (set)
     - Boolean type
     - Binary types
-- List:
-    - Different types of creating list:
+- List
+    - Different types of creating list
         - Using square brackets and comma-separated values
         - Using the list() constructor
         - Using the range() function
         - Using a list comprehension
         - Creating an empty list and then adding items
     - Indexing and Slicing in list
-    - List methods:
+    - List methods
         - append()
         - insert()
         - remove()
@@ -44,7 +44,7 @@ In this section, we covered the basics of Python programming, including:
         - clear()
         - copy()
         - len()
-    - list characteristics:
+    - list characteristics
         - Mutable, Ordered, Heterogeneous, Variable length, Nestable, Iterable
 - Control flow statements (if, for, while)
     - Several advanced forms of the for loop:
@@ -53,8 +53,8 @@ In this section, we covered the basics of Python programming, including:
         - for loop with dictionary
         - for loop in a single line (list comprehension)
 
-- Functions:
-    - Parameters and Arguments:
+- Functions
+    - Parameters and Arguments
         - Argument syntax
         - Parameters syntax
     - function annotations
@@ -72,7 +72,7 @@ Numpy is a Python library for numerical computing, which provides powerful array
 
 - Creating and manipulating arrays
 - Indexing and slicing
-- Basic array operations:
+- Basic array operations
     - Basic mathematical operations
     - Trigonometric functions
     - Exponential and logarithmic functions
@@ -91,7 +91,7 @@ Pandas is a Python library for data manipulation and analysis, which provides po
 - Sort Dataframe by one column
 - Boolean Masking for filtering Dataframe
 - Data exploration methods (shape, columns, info, describe, unique, value_counts) 
-- Data visualization methods:
+- Data visualization methods
     - For numerical features
         - plot()
         - scatter()
@@ -116,7 +116,7 @@ Matplotlib is a Python library for data visualization, which provides flexible a
 ## Gradient Descent
 Gradient descent is a fundamental optimization algorithm for finding the minimum of a function. In machine learning, it is commonly used to optimize the parameters of a model. In this section, we covered the following topics:
 
-- Loss Function:
+- Loss Function
     - MAE function
     - MSE function
 - Plot loss Function
@@ -139,7 +139,7 @@ Linear regression is a simple yet powerful method for modeling the relationship 
 ## Multiple Linear Regression
 Multiple linear regression is an extension of linear regression that can model the relationship between a dependent variable and multiple independent variables. In this section, we covered the following topics:
 
-- Preprocess and EDA:
+- Preprocess and EDA
     - Check and handle missing values
     - Encoding categorical feature
     - Change order of columns
@@ -150,4 +150,3 @@ Multiple linear regression is an extension of linear regression that can model t
 - Ordinary Least Squares: closed-form solution
 - SGDRegressor()
 - Implementing multiple linear regression with two ways (closed-form solution and SGDRegressor()) using Scikit-learn
-- The mathematical formulation of multiple linear regression
