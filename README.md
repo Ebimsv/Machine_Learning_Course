@@ -7,6 +7,7 @@ In this section, we covered the basics of Python programming, including:
 
 
 - Variables and data types
+- Copy and Deep copy
 - Operators
     - Arithmetic operators
     - Assignment operators
@@ -16,13 +17,13 @@ In this section, we covered the basics of Python programming, including:
     - Membership operators
     - Identity operators
 - Data Types
-    - Numeric types (int, float, complex)
-    - Text type (str)
-    - Sequence types (list, tuple, range)
-    - Mapping type
-    - Set types (set)
-    - Boolean type
-    - Binary types
+    - Numeric types(int, float, complex)
+    - Text type(str)
+    - Sequence types(list, tuple, range)
+    - Mapping type(dict)
+    - Set types(set)
+    - Boolean type(bool)
+    - Binary types(bytes)
 - List
     - Different types of creating list
         - Using square brackets and comma-separated values
@@ -47,7 +48,7 @@ In this section, we covered the basics of Python programming, including:
     - list characteristics
         - Mutable, Ordered, Heterogeneous, Variable length, Nestable, Iterable
 - Control flow statements (if, for, while)
-    - Several advanced forms of the for loop:
+    - Several advanced forms of the for loop
         - for loop with zip() function
         - for loop with enumerate() function
         - for loop with dictionary
@@ -143,7 +144,7 @@ Multiple linear regression is an extension of linear regression that can model t
     - Check and handle missing values
     - Encoding categorical feature
     - Change order of columns
-    - Rename the column names so that they can be codeble
+    - Rename the column names so that they can be codable
     - BoxPlot for Outliers
     - Feature selection/Reduction
 - The intuition behind multiple linear regression (multiple input variables) 
