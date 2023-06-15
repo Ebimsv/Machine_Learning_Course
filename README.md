@@ -151,3 +151,11 @@ Multiple linear regression is an extension of linear regression that can model t
 - Ordinary Least Squares: closed-form solution
 - SGDRegressor()
 - Implementing multiple linear regression with two ways (closed-form solution and SGDRegressor()) using Scikit-learn
+
+## Logistic Regression
+Logistic regression is a machine learning algorithm used for classification problems, where the target variable is binary or categorical. We covered how to implement logistic regression using Python and Scikit-learn, and how to evaluate the performance of a logistic regression model. In this section, we covered the following topics:
+- Model with GridSearchCV
+- Plot the decision boundary
+
+## Neural Networks
+Neural networks are a powerful class of machine learning algorithms that can be used for a wide range of tasks, including image recognition, natural language processing, and speech recognition. We covered the basic concepts of neural networks, including how to create a feedforward neural network using Pytorch.
