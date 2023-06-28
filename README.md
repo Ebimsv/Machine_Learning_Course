@@ -159,3 +159,12 @@ Logistic regression is a machine learning algorithm used for classification prob
 
 ## Neural Networks
 Neural networks are a powerful class of machine learning algorithms that can be used for a wide range of tasks, including image recognition, natural language processing, and speech recognition. We covered the basic concepts of neural networks, including how to create a feedforward neural network using Pytorch.
+
+## Decision Tree
+A decision tree is a type of supervised machine learning algorithm that is commonly used for classification and regression tasks. It is a tree-like model where each internal node represents a test on an attribute, each branch represents the outcome of the test, and each leaf node represents a class label or a numerical value.
+
+The decision-making process starts at the root node of the tree and follows a path down to a leaf node, based on the values of the attributes being tested. At each internal node, the algorithm chooses the best attribute to split the data based on some metric, such as information gain or Gini impurity. The goal is to create a tree that can accurately predict the class label or numerical value of new instances based on their attribute values. In this section, we covered the following topics:
+- A simple decision tree
+- Decision Tree with Random search 
+- Decision Tree with Grid search (Grid search and random search are two commonly used techniques for hyperparameter tuning in machine learning.)
+- Train a Random forest 
