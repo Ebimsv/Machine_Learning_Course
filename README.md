@@ -10,7 +10,6 @@ Variables and data types
 Copy and Deep copy
 <details>
 <summary><b>Operators</b></summary><br/>
-
 - Arithmetic operators  
 
 - Assignment operators  
@@ -28,7 +27,6 @@ Copy and Deep copy
 
 <details>
 <summary><b>Data Types</b></summary><br/>
-
 - Numeric types(int, float, complex)  
 
 - Text type(str)  
@@ -47,15 +45,10 @@ Copy and Deep copy
 <details>
 <summary><b>List</b></summary><br/>
 - Different types of creating list
-
     Using square brackets and comma-separated values  
-
     Using the list() constructor  
-
     Using the range() function  
-
     Using a list comprehension  
-
     Creating an empty list and then adding items
 
 - Indexing and Slicing in list
@@ -81,7 +74,7 @@ Copy and Deep copy
     count()  
 
     clear()  
-    
+
     copy()
     len()
 
