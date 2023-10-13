@@ -47,67 +47,73 @@ Copy and Deep copy
 <details>
 <summary><b>List</b></summary><br/>
 Different types of creating list  
+
 - Using square brackets and comma-separated values  
 - Using the list() constructor  
-    Using the range() function  
--   Using a list comprehension  
--   Creating an empty list and then adding items
+- Using the range() function  
+- Using a list comprehension  
+- Creating an empty list and then adding items
 
-- Indexing and Slicing in list  
+Indexing and Slicing in list  
 
 List methods
--   append()  
+- append()  
 
--   insert()  
+- insert()  
 
--   remove()  
+- remove()  
 
--   pop()  
+- pop()  
 
--   sort()  
+- sort()  
 
--   reverse()  
+- reverse()  
 
--   extend()  
+- extend()  
 
--   index()  
+- index()  
 
--   count()  
+- count()  
 
--   clear()  
+- clear()  
 
--   copy()  
+- copy()  
 
--   len()
+- len()
 
 list characteristics
-    Mutable, Ordered, Heterogeneous, Variable length, Nestable, Iterable
+- Mutable 
+- Ordered
+- Heterogeneous
+- Variable length
+- Nestable
+- Iterable
 </details>
 
 <details>
 <summary><b>Control flow statements (if, for, while)</b></summary><br/>
 Several advanced forms of the for loop
-    for loop with zip() function  
 
-    for loop with enumerate() function  
-
-    for loop with dictionary  
-
-    for loop in a single line (list comprehension)
+- for loop with zip() function  
+- for loop with enumerate() function  
+- for loop with dictionary  
+- for loop in a single line (list comprehension)
 </details>
 
 <details>
 <summary><b>Functions</b></summary><br/>
 Parameters and Arguments
-    Argument syntax
-    Parameters syntax
+
+- Argument syntax
+- Parameters syntax
+
 function annotations
 lambda function
 Some useful Built-in functions:
-    enumerate()
-    zip()
-    map()
-    filter()
+- enumerate()
+- zip()
+- map()
+- filter()
 </details>
 
 - Iterables and Iterators
