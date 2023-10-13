@@ -47,9 +47,9 @@ Copy and Deep copy
 <details>
 <summary><b>List</b></summary><br/>
 Different types of creating list  
--   Using square brackets and comma-separated values  
--   Using the list() constructor  
--   Using the range() function  
+- Using square brackets and comma-separated values  
+- Using the list() constructor  
+    Using the range() function  
 -   Using a list comprehension  
 -   Creating an empty list and then adding items
 
@@ -92,7 +92,7 @@ Several advanced forms of the for loop
     for loop with enumerate() function  
 
     for loop with dictionary  
-    
+
     for loop in a single line (list comprehension)
 </details>
 
