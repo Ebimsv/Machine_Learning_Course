@@ -5,16 +5,23 @@ This is a comprehensive list of the topics covered in my machine learning course
 Python is a popular programming language for machine learning due to its simplicity and versatility. 
 In this section, we covered the basics of Python programming, including:
 
-Variables and data types
+Variables and data types  
+
 Copy and Deep copy
 <details>
 <summary><b>Operators</b></summary><br/>
 - Arithmetic operators  
-- Assignment operators
-- Comparison operators
-- Logical operators
-- Bitwise operators
-- Membership operators
+
+- Assignment operators  
+
+- Comparison operators  
+
+- Logical operators  
+
+- Bitwise operators  
+
+- Membership operators  
+
 - Identity operators
 </details>
 
