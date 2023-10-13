@@ -5,9 +5,10 @@ This is a comprehensive list of the topics covered in my machine learning course
 Python is a popular programming language for machine learning due to its simplicity and versatility. 
 In this section, we covered the basics of Python programming, including:
 
-Variables and data types  
+- Variables and data types  
 
-Copy and Deep copy
+- Copy and Deep copy
+
 <details>
 <summary><b>Operators</b></summary><br/>
 
@@ -56,29 +57,18 @@ Different types of creating list
 
 Indexing and Slicing in list  
 
-List methods
+List methods  
 - append()  
-
 - insert()  
-
 - remove()  
-
 - pop()  
-
 - sort()  
-
 - reverse()  
-
 - extend()  
-
 - index()  
-
 - count()  
-
 - clear()  
-
 - copy()  
-
 - len()
 
 list characteristics
@@ -93,7 +83,6 @@ list characteristics
 <details>
 <summary><b>Control flow statements (if, for, while)</b></summary><br/>
 Several advanced forms of the for loop
-
 - for loop with zip() function  
 - for loop with enumerate() function  
 - for loop with dictionary  
@@ -103,7 +92,6 @@ Several advanced forms of the for loop
 <details>
 <summary><b>Functions</b></summary><br/>
 Parameters and Arguments
-
 - Argument syntax
 - Parameters syntax
 
