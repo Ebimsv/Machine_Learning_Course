@@ -10,6 +10,7 @@ Variables and data types
 Copy and Deep copy
 <details>
 <summary><b>Operators</b></summary><br/>
+
 - Arithmetic operators  
 
 - Assignment operators  
@@ -27,62 +28,88 @@ Copy and Deep copy
 
 <details>
 <summary><b>Data Types</b></summary><br/>
-    - Numeric types(int, float, complex)
-    - Text type(str)
-    - Sequence types(list, tuple, range)
-    - Mapping type(dict)
-    - Set types(set)
-    - Boolean type(bool)
-    - Binary types(bytes)
+
+- Numeric types(int, float, complex)  
+
+- Text type(str)  
+
+- Sequence types(list, tuple, range)  
+
+- Mapping type(dict)  
+
+- Set types(set)  
+
+- Boolean type(bool)  
+
+- Binary types(bytes)
 </details>
 
 <details>
 <summary><b>List</b></summary><br/>
-    - Different types of creating list
-        - Using square brackets and comma-separated values
-        - Using the list() constructor
-        - Using the range() function
-        - Using a list comprehension
-        - Creating an empty list and then adding items
-    - Indexing and Slicing in list
-    - List methods
-        - append()
-        - insert()
-        - remove()
-        - pop()
-        - sort()
-        - reverse()
-        - extend()
-        - index()
-        - count()
-        - clear()
-        - copy()
-        - len()
-    - list characteristics
-        - Mutable, Ordered, Heterogeneous, Variable length, Nestable, Iterable
+- Different types of creating list
+
+    Using square brackets and comma-separated values  
+
+    Using the list() constructor  
+
+    Using the range() function  
+
+    Using a list comprehension  
+
+    Creating an empty list and then adding items
+
+- Indexing and Slicing in list
+
+- List methods
+
+    append()  
+
+    insert()  
+
+    remove()  
+
+    pop()  
+
+    sort()  
+
+    reverse()  
+
+    extend()  
+
+    index()  
+
+    count()  
+
+    clear()  
+    
+    copy()
+    len()
+
+- list characteristics
+    Mutable, Ordered, Heterogeneous, Variable length, Nestable, Iterable
 </details>
 
 <details>
 <summary><b>Control flow statements (if, for, while)</b></summary><br/>
-    - Several advanced forms of the for loop
-        - for loop with zip() function
-        - for loop with enumerate() function
-        - for loop with dictionary
-        - for loop in a single line (list comprehension)
+- Several advanced forms of the for loop
+    for loop with zip() function
+    for loop with enumerate() function
+    for loop with dictionary
+    for loop in a single line (list comprehension)
 </details>
 
 <details>
 <summary><b>Functions</b></summary><br/>
-    - Parameters and Arguments
-        - Argument syntax
-        - Parameters syntax
-    - function annotations
-    - lambda function
-    - Some useful Built-in functions:
-        - enumerate()
-        - zip()
-        - map()
-        - filter()
+Parameters and Arguments
+    Argument syntax
+    Parameters syntax
+function annotations
+lambda function
+Some useful Built-in functions:
+    enumerate()
+    zip()
+    map()
+    filter()
 </details>
 
 - Iterables and Iterators
