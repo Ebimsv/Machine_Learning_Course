@@ -1,3 +1,5 @@
+![alt text](https://github.com/Ebimsv/Machine_Learning_Course/blob/main/pics/ML.png)
+
 # Machine Learning Course Topics
 This is a comprehensive list of the topics covered in my machine learning course.
 
@@ -5,25 +7,19 @@ This is a comprehensive list of the topics covered in my machine learning course
 Python is a popular programming language for machine learning due to its simplicity and versatility. 
 In this section, we covered the basics of Python programming, including:
 
-- Variables and data types  
+**Variables and data types**
 
-- Copy and Deep copy
+**Copy and Deep copy**
 
 <details>
 <summary><b>Operators</b></summary><br/>
 
 - Arithmetic operators  
-
 - Assignment operators  
-
 - Comparison operators  
-
 - Logical operators  
-
 - Bitwise operators  
-
 - Membership operators  
-
 - Identity operators
 </details>
 
@@ -31,24 +27,18 @@ In this section, we covered the basics of Python programming, including:
 <summary><b>Data Types</b></summary><br/>
 
 - Numeric types(int, float, complex)  
-
 - Text type(str)  
-
 - Sequence types(list, tuple, range)  
-
 - Mapping type(dict)  
-
 - Set types(set)  
-
 - Boolean type(bool)  
-
 - Binary types(bytes)
 </details>
 
 <details>
 <summary><b>List</b></summary><br/>
-Different types of creating list  
 
+Different types of creating list
 - Using square brackets and comma-separated values  
 - Using the list() constructor  
 - Using the range() function  
@@ -82,6 +72,7 @@ list characteristics
 
 <details>
 <summary><b>Control flow statements (if, for, while)</b></summary><br/>
+
 Several advanced forms of the for loop
 - for loop with zip() function  
 - for loop with enumerate() function  
@@ -91,12 +82,15 @@ Several advanced forms of the for loop
 
 <details>
 <summary><b>Functions</b></summary><br/>
+
 Parameters and Arguments
 - Argument syntax
 - Parameters syntax
 
-function annotations
-lambda function
+function annotations  
+
+lambda function  
+
 Some useful Built-in functions:
 - enumerate()
 - zip()
@@ -104,25 +98,28 @@ Some useful Built-in functions:
 - filter()
 </details>
 
-- Iterables and Iterators
-- try and except
+Iterables and Iterators  
+
+try and except
 
 ## Introduction to Numpy
 Numpy is a Python library for numerical computing, which provides powerful array operations and linear algebra functions. In this section, we covered the following topics:
 
 - Creating and manipulating arrays
 - Indexing and slicing
-- <details>
+
+<details>
 <summary><b>Basic array operations</b></summary><br/>
-    - Basic mathematical operations
-    - Trigonometric functions
-    - Exponential and logarithmic functions
-    - Linear algebra operations(dot product, eigenvalue decomposition, matrix inversion)
-    - Statistical functions
-</details>
+
+- Basic mathematical operations
+- Trigonometric functions
+- Exponential and logarithmic functions
+- Linear algebra operations(dot product, eigenvalue decomposition, matrix inversion)
+- Statistical functions
 - Axis
 - Reshaping and Transposing
 - Random number generation
+</details>
 
 ## Introduction to Pandas
 Pandas is a Python library for data manipulation and analysis, which provides powerful tools for handling tabular data. In this section, we covered the following topics:
@@ -133,27 +130,33 @@ Pandas is a Python library for data manipulation and analysis, which provides po
 - Sort Dataframe by one column
 - Boolean Masking for filtering Dataframe
 - Data exploration methods (shape, columns, info, describe, unique, value_counts) 
-- Data visualization methods
-    - For numerical features
-        - plot()
-        - scatter()
-        - hist()
-        - boxplot()
-    - For categorical features
-        - bar()
-        - pie()
-        - boxplot()
-- Applying function to pandas Dataframe
-- Data Transformation
-    - Grouping (Groupby)
-    - Pivoting
-    - Merging
+<details>
+<summary><b>Data visualization methods</b></summary><br/>
+
+For numerical features
+- plot()
+- scatter()
+- hist()
+- boxplot()
+
+For categorical features
+- bar()
+- pie()
+- boxplot()
+
+Applying function to pandas Dataframe  
+
+Data Transformation
+- Grouping (Groupby)
+- Pivoting
+- Merging
+</details>
 
 ## Introduction to Matplotlib
 Matplotlib is a Python library for data visualization, which provides flexible and customizable plotting functions. In this section, we covered the following topics:
 
 - Basic plotting functions (line plots, scatter plots, histograms)
-- Customizing plots (labels, legends, styles, color, marker, title and xlabel-ylabel,  )
+- Customizing plots (labels, legends, styles, color, marker, title and xlabel-ylabel)
 
 ## Gradient Descent
 Gradient descent is a fundamental optimization algorithm for finding the minimum of a function. In machine learning, it is commonly used to optimize the parameters of a model. In this section, we covered the following topics:
