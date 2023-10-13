@@ -98,9 +98,9 @@ Some useful Built-in functions:
 - filter()
 </details>
 
-Iterables and Iterators  
+**Iterables and Iterators** 
 
-try and except
+**try and except**
 
 ## Introduction to Numpy
 Numpy is a Python library for numerical computing, which provides powerful array operations and linear algebra functions. In this section, we covered the following topics:
@@ -133,20 +133,20 @@ Pandas is a Python library for data manipulation and analysis, which provides po
 <details>
 <summary><b>Data visualization methods</b></summary><br/>
 
-For numerical features
+**For numerical features**
 - plot()
 - scatter()
 - hist()
 - boxplot()
 
-For categorical features
+**For categorical features**
 - bar()
 - pie()
 - boxplot()
 
-Applying function to pandas Dataframe  
+**Applying function to pandas Dataframe**  
 
-Data Transformation
+**Data Transformation**
 - Grouping (Groupby)
 - Pivoting
 - Merging
