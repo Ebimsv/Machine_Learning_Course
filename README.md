@@ -44,7 +44,8 @@ Copy and Deep copy
 
 <details>
 <summary><b>List</b></summary><br/>
-- Different types of creating list
+- Different types of creating list  
+
     Using square brackets and comma-separated values  
     Using the list() constructor  
     Using the range() function  
