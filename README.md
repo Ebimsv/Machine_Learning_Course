@@ -1,7 +1,14 @@
 ![alt text](https://github.com/Ebimsv/Machine_Learning_Course/blob/main/pics/ML.png)
 
-# Machine Learning Course Topics
-This is a comprehensive list of the topics covered in my machine learning course.
+# About This Project
+This project contains the code and resources for my machine learning course at **Tarbiat Modares University**. The course covers a variety of machine learning topics, including supervised learning, unsupervised learning, and deep learning. The code in this project is designed to help students learn the concepts and techniques covered in the course, and to practice applying them to real-world problems.
+
+The code is written in Python and uses the following libraries: NumPy, Pandas, Matplotlib, Scikit-learn, and PyTorch. 
+The target audience for this project is students who are new to machine learning. The code is well-documented and includes examples and tutorials.
+
+I created this project to share my knowledge and experience with others who are interested in learning about machine learning.
+
+I hope this code is helpful to you. If you have any questions or suggestions, please feel free to contact me.
 
 ## Introduction to Python
 Python is a popular programming language for machine learning due to its simplicity and versatility. 
