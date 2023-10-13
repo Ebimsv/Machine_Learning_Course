@@ -8,7 +8,8 @@ In this section, we covered the basics of Python programming, including:
 
 - Variables and data types
 - Copy and Deep copy
-- Operators
+<details>
+<summary><b>Operators</b></summary><br/>
     - Arithmetic operators
     - Assignment operators
     - Comparison operators
@@ -16,7 +17,10 @@ In this section, we covered the basics of Python programming, including:
     - Bitwise operators
     - Membership operators
     - Identity operators
-- Data Types
+</details>
+
+<details>
+<summary><b>Data Types</b></summary><br/>
     - Numeric types(int, float, complex)
     - Text type(str)
     - Sequence types(list, tuple, range)
@@ -24,7 +28,10 @@ In this section, we covered the basics of Python programming, including:
     - Set types(set)
     - Boolean type(bool)
     - Binary types(bytes)
-- List
+</details>
+
+<details>
+<summary><b>List</b></summary><br/>
     - Different types of creating list
         - Using square brackets and comma-separated values
         - Using the list() constructor
@@ -47,14 +54,19 @@ In this section, we covered the basics of Python programming, including:
         - len()
     - list characteristics
         - Mutable, Ordered, Heterogeneous, Variable length, Nestable, Iterable
-- Control flow statements (if, for, while)
+</details>
+
+<details>
+<summary><b>Control flow statements (if, for, while)</b></summary><br/>
     - Several advanced forms of the for loop
         - for loop with zip() function
         - for loop with enumerate() function
         - for loop with dictionary
         - for loop in a single line (list comprehension)
+</details>
 
-- Functions
+<details>
+<summary><b>Functions</b></summary><br/>
     - Parameters and Arguments
         - Argument syntax
         - Parameters syntax
@@ -65,6 +77,8 @@ In this section, we covered the basics of Python programming, including:
         - zip()
         - map()
         - filter()
+</details>
+
 - Iterables and Iterators
 - try and except
 
@@ -73,12 +87,14 @@ Numpy is a Python library for numerical computing, which provides powerful array
 
 - Creating and manipulating arrays
 - Indexing and slicing
-- Basic array operations
+- <details>
+<summary><b>Basic array operations</b></summary><br/>
     - Basic mathematical operations
     - Trigonometric functions
     - Exponential and logarithmic functions
     - Linear algebra operations(dot product, eigenvalue decomposition, matrix inversion)
     - Statistical functions
+</details>
 - Axis
 - Reshaping and Transposing
 - Random number generation
