@@ -27,6 +27,7 @@ Copy and Deep copy
 
 <details>
 <summary><b>Data Types</b></summary><br/>
+
 - Numeric types(int, float, complex)  
 
 - Text type(str)  
@@ -46,38 +47,39 @@ Copy and Deep copy
 <summary><b>List</b></summary><br/>
 - Different types of creating list  
 
-    Using square brackets and comma-separated values  
-    Using the list() constructor  
-    Using the range() function  
-    Using a list comprehension  
-    Creating an empty list and then adding items
+-   Using square brackets and comma-separated values  
+-   Using the list() constructor  
+-   Using the range() function  
+-   Using a list comprehension  
+-   Creating an empty list and then adding items
 
 - Indexing and Slicing in list
 
 - List methods
 
-    append()  
+-   append()  
 
-    insert()  
+-   insert()  
 
-    remove()  
+-   remove()  
 
-    pop()  
+-   pop()  
 
-    sort()  
+-   sort()  
 
-    reverse()  
+-   reverse()  
 
-    extend()  
+-   extend()  
 
-    index()  
+-   index()  
 
-    count()  
+-   count()  
 
-    clear()  
+-   clear()  
 
-    copy()
-    len()
+-   copy()  
+
+-   len()
 
 - list characteristics
     Mutable, Ordered, Heterogeneous, Variable length, Nestable, Iterable
