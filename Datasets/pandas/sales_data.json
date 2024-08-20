@@ -1,0 +1,42 @@
+[
+    {
+        "Order ID": 1001,
+        "Product Name": "Widget A",
+        "Quantity": 3,
+        "Price per Unit": 15.0,
+        "Total Sales": 45.0,
+        "Order Date": "2023-01-15"
+    },
+    {
+        "Order ID": 1002,
+        "Product Name": "Widget B",
+        "Quantity": 5,
+        "Price per Unit": 22.5,
+        "Total Sales": 112.5,
+        "Order Date": "2023-01-16"
+    },
+    {
+        "Order ID": 1003,
+        "Product Name": "Widget C",
+        "Quantity": 2,
+        "Price per Unit": 8.0,
+        "Total Sales": 16.0,
+        "Order Date": "2023-01-17"
+    },
+    {
+        "Order ID": 1004,
+        "Product Name": "Widget A",
+        "Quantity": 1,
+        "Price per Unit": 15.0,
+        "Total Sales": 15.0,
+        "Order Date": "2023-01-18"
+    },
+    {
+        "Order ID": 1005,
+        "Product Name": "Widget D",
+        "Quantity": 4,
+        "Price per Unit": 30.0,
+        "Total Sales": 120.0,
+        "Order Date": "2023-01-19"
+    }
+]
